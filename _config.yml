@@ -67,7 +67,7 @@ author:
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
     - label: "jdwapman@ucdavis.edu"
-      icon: "fab fa-fw fa-envelope-o"
+      icon: "fa fa-fw fa-envelope"
       url: "mailto:jdwapman@ucdavis.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
