@@ -23,6 +23,7 @@ PDF available [here](http://jdwapman.github.io/jdwapman/assets/resume.pdf).
 
 ## Conferences
 * "Gunrock GPU Graph Analytics", UC Davis Indistrial Affiliates Conference, May 2019.
+[poster](http://jdwapman.github.io/jdwapman/assets/posters/ia2019.pdf)
 * "UC Undergraduate Research Ambassador Showcase", February 2018.
 * “Chemical Plume Detection with Collaborative, Autonomous Sensor Networks,” in 2018 Signal and Image Sciences Workshop, 2018.  
 [poster](http://jdwapman.github.io/jdwapman/assets/posters/casis2018.pdf)
